@@ -1,0 +1,126 @@
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.Form1.resources
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\solLabExample\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\solLabExample\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\solLabExample\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\solLabExample\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\New folder\solLabExample\LabExample\bin\Debug\LabExample.xml
+C:\Users\student1115\Desktop\solLabExample\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\student1115\Desktop\solLabExample\LabExample\bin\Debug\LabExample.exe
+C:\Users\student1115\Desktop\solLabExample\LabExample\bin\Debug\LabExample.pdb
+C:\Users\student1115\Desktop\solLabExample\LabExample\bin\Debug\LabExample.xml
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.exe
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.xml
+C:\Users\student1115\Desktop\solLabExample\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\Test\solLabExample\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\SEMINAR 22 OCT\solLabExample\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\solLabExample-sem_4\LabExample\obj\Debug\LabExample.frmInvoiceClass.resources
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.frmInvoiceClass.resources
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.exe
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.xml
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.pdb
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.exe
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.pdb
+C:\Users\student1115\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.frmInvoiceClass.resources
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\solLabExample-12_11\LabExample\obj\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.exe
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.pdb
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.xml
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.frmInvoiceClass.resources
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.frmProduct.resources
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.vbproj.CoreCompileInputs.cache
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.exe
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.xml
+C:\Users\profesor\Desktop\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.pdb
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.exe.config
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.exe
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.pdb
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\bin\Debug\LabExample.xml
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.vbprojAssemblyReference.cache
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.frmInvoice.resources
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.frmInvoiceClass.resources
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.frmProduct.resources
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.Resources.resources
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.vbproj.GenerateResource.cache
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.exe
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.xml
+C:\Users\Dan\Desktop\3.12.2019 LAB\LAB_26.Nov\solLabExample-26_11\LabExample\obj\Debug\LabExample.pdb
